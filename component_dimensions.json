@@ -93,24 +93,6 @@
         "isDraggable": true,
         "isResizable": true
     },
-    "particle_component_1721720302.js": {
-        "id": "particle_component_1721720302",
-        "name": "particle_component",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 7,
-        "h": 7,
-        "x": 5,
-        "y": 14,
-        "i": "3",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
-    },
     "contact_form_table_1721720319.js": {
         "id": "contact_form_table_1721720319",
         "name": "contact_form_table",
