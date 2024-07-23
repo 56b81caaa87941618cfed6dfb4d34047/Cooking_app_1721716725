@@ -12,5 +12,11 @@
         "content": "add a button with texty Nine",
         "timestamp": "23072024073940",
         "message_id": "guest23072024073938"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Thanks for the feature request! I'll add a button with the text \"Nine\".",
+        "timestamp": "23072024073940",
+        "message_id": "guest23072024073938"
     }
 ]
