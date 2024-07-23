@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive ingredient selection panel\", \"checked\": true}, {\"feature\": \"Step-by-step cooking guide pop-up\", \"checked\": false}, {\"feature\": \"Voice command feature for hands-free cooking assistance\", \"checked\": false}, {\"feature\": \"Personalized dietary preference settings\", \"checked\": true}, {\"feature\": \"Social sharing option for favorite recipes\", \"checked\": true}, {\"feature\": \"Timer and reminder for cooking steps\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 97, \"time_taken\": \"0:00:03.008754\"}",
+        "message_id": "guest23072024073938",
+        "timestamp": "23072024073943",
+        "component_file_name": "chatbot_1721720353",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for the feature request! I'll add a button with the text \"Nine\".",
         "message_id": "guest23072024073938",
