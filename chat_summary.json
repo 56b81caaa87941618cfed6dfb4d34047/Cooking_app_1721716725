@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive ingredient selection panel\", \"checked\": true}, {\"feature\": \"Step-by-step cooking guide pop-up\", \"checked\": false}, {\"feature\": \"Voice command feature for hands-free cooking assistance\", \"checked\": false}, {\"feature\": \"Personalized dietary preference settings\", \"checked\": true}, {\"feature\": \"Social sharing option for favorite recipes\", \"checked\": true}, {\"feature\": \"Timer and reminder for cooking steps\", \"checked\": false}], \"input_token_count\": 213, \"output_token_count\": 97, \"time_taken\": \"0:00:03.008754\"}",
         "timestamp": "23072024073943",
         "message_id": "guest23072024073938"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Nine' button to be positioned within the app?\", \"option1\": \"In the main navigation bar\", \"option2\": \"In a specific section of the app (please specify)\"}, {\"question 2\": \"What function should the 'Nine' button perform upon being clicked?\", \"option1\": \"Navigate to a new page within the app\", \"option2\": \"Trigger a pop-up/modal with further options or information\"}], \"input_token_count\": 259, \"output_token_count\": 106, \"time_taken\": \"0:00:03.235037\"}",
+        "timestamp": "23072024073944",
+        "message_id": "guest23072024073938"
     }
 ]
