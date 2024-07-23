@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with texty Nine\nAI: Thanks for the feature request! I'll add a button with the text \"Nine\".\nUser: add a button with text Free\nThis is the user's current request of changes to be made: add a button with text Free"
+    },
+    {
+        "level": 1,
+        "task_description": "add a sidebar"
     }
 ]
