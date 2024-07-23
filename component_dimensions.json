@@ -77,11 +77,11 @@
     },
     "faq_accordion_1721717887.js": {
         "id": "faq_accordion_1721717887",
-        "name": "faq_accordion",
+        "name": "faq-accordion",
         "type": "containerComponent",
         "metadata": {},
         "w": 7,
-        "h": 7,
+        "h": 13,
         "x": 5,
         "y": 0,
         "i": "4",
