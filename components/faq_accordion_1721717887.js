@@ -23,7 +23,7 @@ Vue.component('faq_accordion_1721717887', {
         </div>
       </section>
       <div class="flex justify-center mt-6">
-        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
+        <button class="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded">
           Free
         </button>
       </div>
