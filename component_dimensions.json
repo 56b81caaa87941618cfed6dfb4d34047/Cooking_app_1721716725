@@ -74,23 +74,5 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
-    },
-    "faq_accordion_1721717446.js": {
-        "id": "faq_accordion_1721717446",
-        "name": "faq_accordion",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 7,
-        "h": 7,
-        "x": 2,
-        "y": 7,
-        "i": "1",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true
     }
 }
