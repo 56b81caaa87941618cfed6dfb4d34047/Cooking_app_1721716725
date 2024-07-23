@@ -1,23 +1,4 @@
 {
-    "simple_cta_component_1721716726.js": {
-        "component_name": "simple_cta_component",
-        "id": "simple_cta_component_1721716726",
-        "type": "containerComponent",
-        "metadata": {},
-        "w": 5,
-        "h": 7,
-        "x": 0,
-        "y": 7,
-        "i": "2",
-        "minW": 3,
-        "maxW": 12,
-        "minH": 1,
-        "moved": false,
-        "static": false,
-        "isDraggable": true,
-        "isResizable": true,
-        "name": ""
-    },
     "simple_footer_component_1721716726.js": {
         "component_name": "simple_footer_component",
         "id": "simple_footer_component_1721716726",
