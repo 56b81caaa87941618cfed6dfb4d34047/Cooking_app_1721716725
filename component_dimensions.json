@@ -73,5 +73,23 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "contact_form_1721716858.js": {
+        "id": "contact_form-d1d8b38d-f634-bb82-d9ff-c00d151cf8fd",
+        "name": "contact_form",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 8,
+        "x": "50",
+        "y": "60",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
