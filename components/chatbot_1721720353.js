@@ -25,6 +25,7 @@ Vue.component('chatbot', {
                     </div>
                 </div>
                 <div id="main-input-box-field" class="p-4 pb-10 flex w-full">
+                <button class="bg-blue-500 text-white px-4 py-2 rounded-md mr-2">Nine</button>
                 <input v-model="message" @keyup.enter="sendMessage" type="text" placeholder="Type prompt here..." class="italic flex-grow px-3 py-2 bg-gray-100 text-black rounded-l-md outline-none border-none focus:border-transparent focus:ring-0">
                     <button @click="sendMessage" class="text-white px-4 py-2 rounded-r-md transition duration-300 bg-white"><img src="./images/send.png" alt="Send-button" class="src w-16px h-16px"></button>
                 </div>
