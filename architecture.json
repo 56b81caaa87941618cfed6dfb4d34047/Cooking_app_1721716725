@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "add a sidebar"
+    },
+    {
+        "level": 1,
+        "task_description": "add a sidebar"
     }
 ]
