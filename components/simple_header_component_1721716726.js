@@ -4,7 +4,7 @@
 Vue.component("simple_header_component_1721716726", {
     template: `
     <div class="flex">
-        <aside class="w-64 h-screen bg-gray-100 dark:bg-gray-800">
+        <aside class="w-64 h-screen bg-white border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700">
             <div class="p-4">
                 <h2 class="text-lg font-semibold text-gray-800 dark:text-white">Menu</h2>
                 <ul class="mt-4">
@@ -25,11 +25,11 @@ Vue.component("simple_header_component_1721716726", {
         </aside>
         <div class="flex-1">
             <header id="header-section" class="w-full">
-                <nav id="nav-bar" class="bg-white border-gray-200 py-2.5 dark:bg-gray-900">
+                <nav id="nav-bar" class="bg-white border-b border-gray-200 py-2.5 dark:bg-gray-900 dark:border-gray-700">
                     <div id="nav-container" class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
                         <a id="logo-link" href="#" class="flex items-center">
                             <img id="logo-image" src="./images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Landwind Logo" />
-                            <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">FoodCraft: Culinary Creations</span>
+                            <span id="app-name" class="self-center text-xl font-semibold whitespace-nowrap text-gray-800 dark:text-white">FoodCraft: Culinary Creations</span>
                         </a>
                         <div id="menu-toggle-button" class="flex items-center lg:order-2">
                             <button id="collapse-button" data-collapse-toggle="mobile-menu-2" type="button" class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-2" aria-expanded="false">
